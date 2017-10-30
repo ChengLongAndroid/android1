@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="I:\Android1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3ccaa81b08954fdd468e579f539d19477b41c1b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_3298c340a1cbb6b686949755377f2fe1dd255f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\Android1\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_c5693897cf67108405d25171d089374753221dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_0e13a6da0789b134ab9d60a1c07a14f57b9893d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\gradle\wrapper\gradle-wrapper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92d0b85fb15ec7ca7aa72eaab4d5f7faac9297d1">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\gradle-wrapper_bb79d57488617468edd1cb736341959e30e162f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_48ade5d73d8a08135656803c3c8bdb2aaddda06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_42b20cbb41969a3d0c175b61f4acba0cf4417163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_774afbf58d7d6bb9b1bf6514027962f72bc5d732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_31ae5d4db23b51b72744b780eaf26a0357585b28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_bdda94470804b1681d4bbe9daf72ddd67870706b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\build\generated\mockable-android-26.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="64808fa03dd3f0400a4c2f121d91bdedce7f80f4">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\mockable-android-26_5ba65752c23ee26385ccaa08ef146ee248afd7ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\libs\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\core-3.3.0_33f715ffc41be39e689b3ef210d696b0c98026c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_dc432eb525a8c62f282ac57bbbc8822b6d2c91ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_a2fa7d5bc3fb56e8dde23030bd7e1d88ac878af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\zxing\zxing-zxing-3.0.0\android1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_0c6fdf0b2b56707fb7e3b676c2173c9bc9755cf2.jar" />
+    </item>
+
+</items>

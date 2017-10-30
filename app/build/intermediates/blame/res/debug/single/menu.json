@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\zxing\\zxing-zxing-3.0.0\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "D:\\zxing\\zxing-zxing-3.0.0\\android1\\app\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "D:\\zxing\\zxing-zxing-3.0.0\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "D:\\zxing\\zxing-zxing-3.0.0\\android1\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "D:\\zxing\\zxing-zxing-3.0.0\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "D:\\zxing\\zxing-zxing-3.0.0\\android1\\app\\src\\main\\res\\menu\\encode.xml"
+    }
+]
